@@ -8,3 +8,7 @@ Asks the user if they want to add sugar to their coffee.
 Displays an order summary based on the user's choices.
 Usage:
 Run the program and follow the prompts to customize your coffee order. The application will handle invalid inputs by providing default choices or assuming no additions.
+
+
+
+It follows all the rules and requirements given to me by the teacher of the lesson.
